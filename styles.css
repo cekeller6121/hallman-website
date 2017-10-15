@@ -26,13 +26,17 @@ header {
   text-align: center;
 }
 
-.logopic {
-  display: block;
-  margin: 5% auto 0 auto;
-  width: 50%;
+.topPics {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1%;
+}
+
+#truckpic {
+  padding-top: 2%;
 }
 
 .info {
   font-size: 20px;
-  margin: 5% 10% 5% 10%;
+  margin: 1% 10% 5% 10%;
 }
