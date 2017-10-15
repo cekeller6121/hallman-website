@@ -9,6 +9,10 @@ p {
   font-family: 'Open Sans Condensed';
 }
 
+h1 {
+  font-family: 'Cinzel';
+}
+
 body {
   background-color: LightSkyBlue;
 }
@@ -21,8 +25,18 @@ header {
   height: 15vw;
 }
 
+nav {
+  margin-left: 0.5%;
+}
+
+nav a {
+  color: Blue;
+  font-family: 'Open Sans Condensed';
+  font-size: 20px;
+  text-decoration: none;
+}
+
 .top {
-  font-family: 'Cinzel';
   text-align: center;
 }
 
@@ -39,4 +53,8 @@ header {
 .info {
   font-size: 20px;
   margin: 1% 10% 5% 10%;
+}
+
+.about {
+  text-align: center;
 }
